@@ -5,14 +5,14 @@ This repository contains T-SQL scripts that I created over years of working as a
 They help with performance tuning, monitoring, debugging production issues, and general MSSQL maintenance.
 
 ## Categories
-✔ Performance Tuning  
-✔ Blocking & Deadlocks  
-✔ Backup / Restore  
+✔ Backup Restore and Recovery
+✔ Daily Health Checks
 ✔ Index Management  
-✔ Daily Health Checks  
-✔ Storage & File Analysis  
+✔ Maintenance
+✔ Performance Tuning
 ✔ TempDB Diagnostics  
-✔ Log File Monitoring  
+✔ TroubleShooting
+✔ Utility
 
 ## How to Use
 Each folder contains scripts with comments, examples, and recommended situations where they should be used.
