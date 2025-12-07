@@ -5,7 +5,7 @@ This repository contains T-SQL scripts that I created over years of working as a
 They help with performance tuning, monitoring, debugging production issues, and general MSSQL maintenance.
 
 ## Categories
-✔ Backup Restore and Recovery  
+✔ [Backup Restore and Recovery](https://github.com/menai993/sqlserver-dba-utilities/tree/6da1b05f724ee057ebb16c9add6a8a932e48b08f/Backup%20Restore%20and%20Recovery)
 ✔ Daily Health Checks  
 ✔ Index Management  
 ✔ Maintenance  
